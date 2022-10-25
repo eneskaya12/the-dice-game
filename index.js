@@ -19,8 +19,8 @@ function whoWin(randomNumber1,randomNumber2){
 
 const reloadtButton = document.querySelector(".btn");
 // Reload everything:
-function reload() {
-    reload = location.reload();
-}
+ const reload = reload => {reload = location.reload();}
+
+ 
 // Event listeners for reload
 reloadButton.addEventListener("click", reload, false);
