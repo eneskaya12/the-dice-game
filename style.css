@@ -22,12 +22,15 @@
 
 .btn{
   cursor: pointer;
-  font-size: 40px;
-  font-size: 3rem;
+  font-size: 30px;
   color: #4ECCA3;
   border: 3px solid #4ECCA3;
   border-radius: 15px;
   background-color: transparent;
+  padding: 15px;
+  margin: 20px;
+  font-family: 'Press Start 2P', cursive;
+
   
 }
 
