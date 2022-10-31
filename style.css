@@ -52,9 +52,11 @@ h1 {
 }
 
 p {
-  font-size: 2rem;
+  font-size: 1.3rem;
   color: #4ECCA3;
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Press Start 2P', cursive;
+  text-shadow: 1px 1px #EEEEEE;
+  
 }
 
 img {
